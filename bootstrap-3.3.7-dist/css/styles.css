@@ -1,0 +1,11 @@
+.navb{background:#9c4040;  height:50px;   font-size:30px;
+	justify-content: space-between;  display: flex;  padding:3px;
+}
+.nava{color: white;
+}
+.navs{color: white; padding-left: 7px; padding-right: 3px;
+
+}
+.navb b{
+	color: white;
+}
